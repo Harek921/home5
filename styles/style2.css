@@ -1,0 +1,78 @@
+*{
+    background: grey;
+    text-align: center;
+}
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.hm_prt2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 66px;
+    color: black;
+
+}
+.container {
+    box-sizing: border-box;
+    max-width: 800px;
+    margin: 0 auto;
+
+
+}
+
+.h_special{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.special_offers{
+    box-sizing: border-box;
+    background-color: white;
+    float: left;
+    width: 150px;
+    font-size: 16px;
+    border: 2px black solid;
+    padding: 3px 10px 3px 10px;
+    margin: 0 20px 0 20px;
+    border-radius: 10px;
+}
+
+.opis{
+    padding: 10px 10px;
+    font-style: italic;
+    background-color: white;
+}
+
+.price{
+    padding: 10px 10px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+}
+
+button{
+    margin: 5px 0 5px 0;
+    border-radius: 25px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    background: #ffffff;
+
+
+}
+
+input{
+    margin-top: 30px;
+    border-radius: 25px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 15px;
+    background: #afafc7;
+}
+

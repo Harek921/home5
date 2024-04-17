@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background: url(".././assets/img/background.jpg")
+}
+
+.hm_prt1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 66px;
+    color: black;
+}
+
+.container {
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 0;
+
+    }
+
+.item{
+    border-radius: 10px;
+    border: 3px green solid;
+    background: white;
+    width: 24%;
+    display: inline-block;
+    font-size: 30px;
+
+}
+
+input{
+    margin-top: 30px;
+    border-radius: 25px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 15px;
+    background: #f8bc00;
+}
+
+
