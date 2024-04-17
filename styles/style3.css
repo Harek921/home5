@@ -1,6 +1,6 @@
 *{
-    box-sizing: border-box;
-    text-align: center;
+        text-align: center;
+    background-color: blanchedalmond;
 }
 .hm_prt3 {
     padding-top: 30px;
@@ -9,6 +9,9 @@
     color: black;
 }
 .menu{
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-around;
 
